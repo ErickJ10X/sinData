@@ -42,6 +42,4 @@ public class ClienteHttp{
         }
         return respuesta.toString();
     }
-
-
 }
